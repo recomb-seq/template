@@ -12,7 +12,7 @@ layout: home
 
 ### Contact details
 
-- Email: [{{ site.author.email }}](mailto:{{ site.author.email }})
+#- Email: [{{ site.author.email }}](mailto:{{ site.author.email }})
 - X: [@RECOMBseq](https://x.com/RECOMBseq)
 - Bluesky: [@RECOMBseq](https://bsky.app/profile/recombseq.bsky.social)
 - LinkedIn: [RECOMBseq](https://www.linkedin.com/groups/15794046/)
